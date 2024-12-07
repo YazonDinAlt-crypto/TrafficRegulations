@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Traffic Rules</string>
+    <string name="show_rules">Показать правила</string>
+    <string name="info_text">Информация</string>
+    <string name="rules_title">Правила дорожного движения</string>
+    <string name="rule_1">1. Соблюдайте скоростной режим.</string>
+    <string name="rule_2">2. Используйте ремни безопасности.</string>
+    <string name="rule_3">3. Не управляйте автомобилем в состоянии алкогольного опьянения.</string>
+    <string name="rule_4">4. Уважайте пешеходов.</string>
+    <string name="rule_5">5. Соблюдайте правила проезда перекрестков.</string>
+    <string name="rules_list">%1$s\n%2$s\n%3$s\n%4$s\n%5$s</string>
+</resources>
